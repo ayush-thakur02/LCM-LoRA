@@ -3,9 +3,6 @@
 # LCM LoRA Colab Notebook
 
 This repository contains the code and instructions for running the LCM LoRA models on Google Colab with a T4 GPU. These models are based on stable diffusion models with LoRA distillation, which can synthesize high-resolution images with few-step inference. You can use these models to generate realistic and diverse images from various domains, such as faces, animals, landscapes, and more.
-  
-[![Stable Diffuison](https://img.shields.io/badge/File_Version-v1.0-blue)](https://github.com/ayush-thakur02/stable-diffusion-xl)
-[![Static Badge](https://img.shields.io/badge/Python_v3-gray)](https://github.com/ayush-thakur02/stable-diffusion-xl)
 
 **You can Also Try on Google Colab for free & Make Sure to follow me:**
 
