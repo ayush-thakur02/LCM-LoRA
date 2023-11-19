@@ -6,7 +6,7 @@ This repository contains the code and instructions for running the LCM LoRA mode
 
 **You can Also Try on Google Colab for free & Make Sure to follow me:**
 
-[![Colab](https://img.shields.io/badge/Open_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1oHpkhIUTqeLtgfWeyjVtloSJNjm-OMZ8?usp=sharing)
+[![Colab](https://img.shields.io/badge/Open_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/ayush-thakur02/LCM-LoRA/blob/main/LCM_LoRA.ipynb)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
 [![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i_ayush_thakur)
@@ -25,7 +25,7 @@ To use the LCM LoRA models, you need to have a Google account and access to Goog
 
 <b>
 
-### 1. Open the [LCM LoRA Colab Notebook](https://colab.research.google.com/drive/1oHpkhIUTqeLtgfWeyjVtloSJNjm-OMZ8?usp=sharing) in your browser.
+### 1. Open the [LCM LoRA Colab Notebook](https://colab.research.google.com/github/ayush-thakur02/LCM-LoRA/blob/main/LCM_LoRA.ipynb) in your browser.
 
    ![image](https://github.com/ayush-thakur02/LCM-LoRA/assets/111521011/a9541417-e754-4d49-ae93-4aa19620c083)
 
