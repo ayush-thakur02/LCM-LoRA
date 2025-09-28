@@ -64,3 +64,7 @@ Hey Guys, I am a student who is passionate about AI and it's generative models. 
 Thank you for your support and feedback! 😊
 
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ayush-thakur02/LCM-LoRA&type=Date)](https://www.star-history.com/#ayush-thakur02/LCM-LoRA&Date)
